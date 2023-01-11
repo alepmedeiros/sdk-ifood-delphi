@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="D:\MyRepository\sdk-ifood-delphi\test\Win32\Debug\IfoodTeste.exe" total="0" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2023-01-10" time="0.000">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="IfoodTeste.exe" executed="true" result="Success" success="True" time="0.000" asserts="0">
+    <results>
+    </results>
+  </test-suite>
+</test-results>
