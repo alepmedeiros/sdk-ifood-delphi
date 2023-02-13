@@ -1,0 +1,13 @@
+{
+	"name": "teste",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"https://github.com/alepmedeiros/sdk-ifood-delphi": "^1.0.0",
+		"https://github.com/gabrielbaltazar/gbjson": "^1.0.10",
+		"https://github.com/viniciussanchez/restrequest4delphi": "^v3.0.19"
+	}
+}
